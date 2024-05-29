@@ -1,0 +1,40 @@
+**************************************************
+*                INSTRUCCIONES                   *
+**************************************************
+* 1. MOVIMIENTO DE LA NAVE                        *
+*    Usa las teclas de flecha para mover la nave: *
+*       - Flecha Izquierda (←): Mover a la izquierda *
+*       - Flecha Derecha (→): Mover a la derecha  *
+*       - Flecha Arriba (↑): Mover hacia arriba   *
+*       - Flecha Abajo (↓): Mover hacia abajo     *
+**************************************************
+* 2. DISPARAR                                     *
+*    Presiona la tecla 's' para disparar balas    *
+*    desde la nave.                               *
+**************************************************
+* 3. PUNTOS Y VIDA                                *
+*    - Vida: Representada por corazones en la parte *
+*            superior de la pantalla.              *
+*    - Puntos: Se muestran en la parte superior.  *
+*    - Cada asteroide destruido te da 1 punto.    *
+**************************************************
+* 4. COLISIONES                                   *
+*    - Si un asteroide choca con tu nave,         *
+*      perderás un corazón.                       *
+*    - Si te quedas sin corazones, perderás una   *
+*      vida.                                      *
+*    - Si pierdes todas las vidas, el juego       *
+*      terminará.                                 *
+**************************************************
+* 5. RECARGA DE CORAZONES                         *
+*    - Cada vez que pierdes todos los corazones,  *
+*      perderás una vida, pero tus corazones      *
+*      se recargarán a tres.                      *
+**************************************************
+* 6. SALIR DEL JUEGO                              *
+*    - Presiona la tecla 'e' para salir del juego *
+**************************************************
+* 7. JUGAR DE NUEVO                               *
+*    - Si pierdes todas las vidas, se te preguntará *
+*      si deseas volver a jugar (s/n).            *
+**************************************************
